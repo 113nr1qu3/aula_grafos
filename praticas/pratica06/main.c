@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "dijkstra.h"
+#include "dijkstra.c"
 
 int main() {
     int num_vertices = 5;
